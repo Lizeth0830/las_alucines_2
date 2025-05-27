@@ -26,4 +26,4 @@ Este sitio lo creé con el propósito de compartir uno de mis temas favoritos pa
 
 Aprendí nuevos conceptos y etiquetas que antes no utilizaba, y que a la hora de ver la página como tal no son visibles pero en el código es muy notorio lo que causan y la organización que dan.
 
-**Lizeth Gutierrez**
+**Lizeth Gutierrez - 3147235** 
